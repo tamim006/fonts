@@ -1,6 +1,6 @@
 /* Regular */
 @font-face {
-  font-family: "Archivo SemiExpanded";
+  font-family: "MyFont";
   src: url("./Archivo_SemiExpanded-Regular.woff2") format("woff2"),
   font-weight: 400;
   font-style: normal;
@@ -8,7 +8,7 @@
 
 /* Medium */
 @font-face {
-  font-family: "Archivo SemiExpanded";
+  font-family: "MyFont";
   src: url("./Archivo_SemiExpanded-Medium.woff2") format("woff2"),
   font-weight: 500;
   font-style: normal;
@@ -16,7 +16,7 @@
 
 /* Bold */
 @font-face {
-  font-family: "Archivo SemiExpanded";
+  font-family: "MyFont";
   src: url("./Archivo_SemiExpanded-Bold.woff2") format("woff2"),
   font-weight: 700;
   font-style: normal;
