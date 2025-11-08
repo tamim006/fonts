@@ -9,9 +9,7 @@
 /* Medium */
 @font-face {
   font-family: "MyFont";
-  src: url("./fonts/MyFont-Medium.woff2") format("woff2"),
-       url("./fonts/MyFont-Medium.woff") format("woff"),
-       url("./fonts/MyFont-Medium.ttf") format("truetype");
+  src: url("./Archivo_SemiExpanded-Medium.woff2") format("woff2"),
   font-weight: 500;
   font-style: normal;
 }
@@ -19,9 +17,7 @@
 /* Bold */
 @font-face {
   font-family: "MyFont";
-  src: url("./fonts/MyFont-Bold.woff2") format("woff2"),
-       url("./fonts/MyFont-Bold.woff") format("woff"),
-       url("./fonts/MyFont-Bold.ttf") format("truetype");
+  src: url("./Archivo_SemiExpanded-Bold.woff2") format("woff2"),
   font-weight: 700;
   font-style: normal;
 }
